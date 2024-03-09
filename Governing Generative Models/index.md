@@ -21,8 +21,11 @@
 Project_01 Auto Insurance Claim Summarization
 
 ![](images/截圖 2024-03-09 晚上11.15.33.png)
+
 ![](images/截圖 2024-03-09 晚上11.16.13.png)
+
 ![](images/截圖 2024-03-09 晚上11.16.21.png)
+
 ![](images/截圖 2024-03-09 晚上11.16.28.png)
 
 **▪ Step 1:**
