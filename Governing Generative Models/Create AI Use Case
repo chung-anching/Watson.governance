@@ -5,3 +5,24 @@ Setup: Create New Project (From File)
 ▪ Step 4: Deploy ML Model/AI Asset
 ▪ Step 5: Validate ML Model/AI Asset
 
+
+**APIC Workshop Lab 2 - The Developer Portal Experience**
+
+In this lab, we will take the API created in Lab 1 and publish it to a
+Developer Portal, ready for consumption by app developers. We will begin
+by creating a new catalog and configuring the developer portal for our
+HotelReview product. We will then define a new plan in the product and
+publish to our new developer portal.
+
+In this tutorial, you will explore the following key capabilities:
+
+-   Configure the Developer Portal and publish the APIs.
+
+-   Create a Portal Account.
+
+-   Create App and Subscribe to Plan.
+
+-   Test API in the Developer Portal
+
+ APIC Workshop Series
+======================================
