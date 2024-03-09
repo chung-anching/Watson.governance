@@ -20,13 +20,13 @@
 填寫所需資訊。複製下面的專案名稱，然後按一下「建立Create」。
 Project_01 Auto Insurance Claim Summarization
 
-![](images/截圖 2024-03-09 晚上11.15.33.png)
+![](images/WXG1111.jpeg)
 
-![](images/截圖 2024-03-09 晚上11.16.13.png)
+![](images/WXG1.png)
 
-![](images/截圖 2024-03-09 晚上11.16.21.png)
+![](images/images/WXG2.png)
 
-![](images/截圖 2024-03-09 晚上11.16.28.png)
+![](images/images/WXG3.png)
 
 **▪ Step 1:**
 
