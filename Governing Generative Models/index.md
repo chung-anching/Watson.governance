@@ -11,7 +11,7 @@
 透過上傳 zip 檔案建立一個新專案。
 若要透過上傳檔案建立新項目，請前往左側窗格，選擇檢視所有專案(View all projects)。
 
-![](images/1.png)(url){:height="50%" width="50%"}
+![](images/1.png =100x80)
 
 請點選 “新建項目+ (New project+)”  按鈕。
 
